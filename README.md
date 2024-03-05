@@ -32,7 +32,7 @@ User can see their Client's computer fleet and have a quick view of the security
 ## Work Done
 Project has been done in a few hours based on the instructions, no exact time but around what was expected
 ### Frontend
-Frontend is divided into 2 parts : ClientsLists and DevicesTable
+Frontend is divided into 2 parts : ClientsList and DevicesTable
 ![image](https://github.com/theochhean/everping-test/assets/37695694/b1df2db7-1fc3-464a-b97c-559588683c32)
 
 User can select a Client from the Select List to see their Devices and their status

@@ -1,0 +1,54 @@
+
+.devices-number,
+.devices-shown,
+.devices-healthy-percentage {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.devices-filters-selector {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.devices-filters-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    flex-basis: 100%;
+}
+
+.devices-filters-selector label {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.devices-filters-selector input {
+    margin-right: 8px;
+}
+
+.devices-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.devices-table th, .devices-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+.devices-table th {
+    background-color: #f2f2f2;
+}
+
+.devices-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.devices-table tbody tr:hover {
+    background-color: #e0e0e0;
+}
